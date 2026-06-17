@@ -78,3 +78,35 @@
 - 使用方法：便携版
 - 用途：#辅助监测
 - 加入时间：20260617
+
+# Notepad++
+
+- 官网：[Notepad++](https://notepad-plus-plus.org/)
+- 更新ing？：频繁更新
+- 使用方法：安装包版、便携版
+- 用途：#文本编辑
+- 加入时间：20260617
+
+# Sumatra PDF
+
+- 官网：[Sumatra PDF — Free, Fast PDF Reader for Windows](https://www.sumatrapdfreader.org/free-pdf-reader)
+- 更新ing？：频繁更新
+- 使用方法：安装包版、便携版
+- 用途：#PDF
+- 加入时间：20260617
+
+# LocalSend
+
+- 官网：[LocalSend：与附近设备共享文件](https://localsend.org/zh-CN)
+- 更新ing？：更新
+- 使用方法：安装包版、便携版、安卓版
+- 用途：#文件传输
+- 加入时间：20260617
+
+# WinMerge
+
+- 官网：[WinMerge - You will see the difference…](https://winmerge.org/)
+- 更新ing？：更新
+- 使用方法：安装包版
+- 用途：#文件比对 #图片比对
+- 加入时间：20260617
