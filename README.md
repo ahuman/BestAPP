@@ -34,9 +34,47 @@
   - [GitHub：wiztree_4_31_portable.zip](https://github.com/ahuman/BestAPP/blob/main/wiztree_4_31_portable.zip)  
   - [GitCode：wiztree_4_31_portable.zip](https://gitcode.com/ahuman/BestAPP/blob/main/wiztree_4_31_portable.zip)
 - 官网：[WizTree - The Fastest Disk Space Analyzer](https://www.diskanalyzer.com/)
-
 - 版本：4.31
 - 更新ing？：更新，平均2-3个月更新一次
 - 使用方法：便携版，解压即可使用。（也有安装包版）
 - 用途：#磁盘分析
 - 加入时间：20260616
+
+# voidImageViewer
+
+- 文件名：
+  - [Gitee：voidImageViewer-1.0.0.15.x64.en-US.zip](https://gitee.com/ahuman1990/BestAPP/blob/main/voidImageViewer-1.0.0.15.x64.en-US.zip) 
+  - [GitHub：voidImageViewer-1.0.0.15.x64.en-US.zip](https://github.com/ahuman/BestAPP/blob/main/voidImageViewer-1.0.0.15.x64.en-US.zip)  
+  - [GitCode：voidImageViewer-1.0.0.15.x64.en-US.zip](https://gitcode.com/ahuman/BestAPP/blob/main/voidImageViewer-1.0.0.15.x64.en-US.zip)
+- 官网：[voidImageViewer - voidtools forum](https://www.voidtools.com/forum/viewtopic.php?t=5623) 、 [voidtools/voidImageViewer: Lightweight image viewer for Windows with animated GIF/WEBP support](https://github.com/voidtools/voidImageViewer/)
+- 版本：1.0.0.15
+- 更新ing？：更新，较慢
+- 使用方法：便携版，解压即可使用。（也有安装包版）
+- 用途：#图片查看器
+- 加入时间：20260617
+
+# Everything
+
+- 文件名：
+  - [Gitee：Everything-1.5.0.1415b.x64-Setup.exe](https://gitee.com/ahuman1990/BestAPP/blob/main/Everything-1.5.0.1415b.x64-Setup.exe) 
+  - [GitHub：Everything-1.5.0.1415b.x64-Setup.exe](https://github.com/ahuman/BestAPP/blob/main/Everything-1.5.0.1415b.x64-Setup.exe)  
+  - [GitCode：Everything-1.5.0.1415b.x64-Setup.exe](https://gitcode.com/ahuman/BestAPP/blob/main/Everything-1.5.0.1415b.x64-Setup.exe)
+- 官网：[Everything 1.5 Beta - voidtools forum](https://www.voidtools.com/forum/viewtopic.php?p=35389)
+- 版本：1.5 Beta
+- 更新ing？：更新
+- 使用方法：安装包版。（也有便携版）
+- 用途：#文件查找
+- 加入时间：20260617
+
+# TrafficMonitor
+
+- 文件名：
+  - [Gitee：TrafficMonitor_V1.86_x64_Lite.zip](https://gitee.com/ahuman1990/BestAPP/blob/main/TrafficMonitor_V1.86_x64_Lite.zip) 
+  - [GitHub：TrafficMonitor_V1.86_x64_Lite.zip](https://github.com/ahuman/BestAPP/blob/main/TrafficMonitor_V1.86_x64_Lite.zip)  
+  - [GitCode：TrafficMonitor_V1.86_x64_Lite.zip](https://gitcode.com/ahuman/BestAPP/blob/main/TrafficMonitor_V1.86_x64_Lite.zip)
+- 官网：[zhongyang219/TrafficMonitor: 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。](https://github.com/zhongyang219/TrafficMonitor/)
+- 版本：1.86
+- 更新ing？：更新，较慢
+- 使用方法：便携版
+- 用途：#辅助监测
+- 加入时间：20260617
